@@ -1,3 +1,8 @@
+/**
+2024.01.06 페어프로그래밍
+지시자: 희표, 작성자: 보경
+*/
+
 import java.util.Scanner;
 import java.util.Stack;
 
