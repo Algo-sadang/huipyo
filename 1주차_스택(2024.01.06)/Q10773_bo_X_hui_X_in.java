@@ -1,3 +1,8 @@
+/**
+2024.01.06 페어프로그래밍
+지시자: 보경, 작성자: 인경
+*/
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
