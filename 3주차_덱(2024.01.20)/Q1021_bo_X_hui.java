@@ -1,3 +1,8 @@
+/**
+2024.01.20 페어프로그래밍
+지시자: 보경, 작성자: 희표
+*/
+
 import java.util.*;
 
 public class Main {
